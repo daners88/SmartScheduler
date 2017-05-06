@@ -1,0 +1,6 @@
+c:\users\dane\documents\visual studio 2015\Projects\SmartHomeScheduler\SmartHomeScheduler\bin\Debug\SmartHomeScheduler.exe.config
+c:\users\dane\documents\visual studio 2015\Projects\SmartHomeScheduler\SmartHomeScheduler\bin\Debug\SmartHomeScheduler.exe
+c:\users\dane\documents\visual studio 2015\Projects\SmartHomeScheduler\SmartHomeScheduler\bin\Debug\SmartHomeScheduler.pdb
+c:\users\dane\documents\visual studio 2015\Projects\SmartHomeScheduler\SmartHomeScheduler\obj\Debug\SmartHomeScheduler.csprojResolveAssemblyReference.cache
+c:\users\dane\documents\visual studio 2015\Projects\SmartHomeScheduler\SmartHomeScheduler\obj\Debug\SmartHomeScheduler.exe
+c:\users\dane\documents\visual studio 2015\Projects\SmartHomeScheduler\SmartHomeScheduler\obj\Debug\SmartHomeScheduler.pdb
